@@ -15,10 +15,11 @@ import {
   SiNextdotjs,
   SiFlutter,
   SiJava,
-  SiExpress
+  SiExpress,
+
 } from "react-icons/si";
 import {
-  GrMysql
+  GrMysql,
 } from "react-icons/gr"
 
 function Techstack() {
@@ -37,10 +38,10 @@ function Techstack() {
         <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
+        <DiPython />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiExpress />
+        <GrMysql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />

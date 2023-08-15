@@ -19,28 +19,29 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I start my coding by start learning C/C++ and start explorting all the field and made several projects.
+            I embarked on my coding journey by acquiring proficiency in C/C++, delving into diverse domains and successfully executing numerous projects.
+            Subsequently, I ventured into mastering Node.js, setting a clear trajectory for a career in this domain.
               <br />
-              <br />Then, I start learning<i><b className="purple" > Node.js </b> </i> and decide to make a career in it.
+              
               {/* <i>
                 <b className="purple"> C++, Javascript and Java </b>
               </i> */}
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My focal areas of expertise encompass pioneering advancements in  &nbsp;
               <i>
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  BeckEnd Development and APIs
+                  BeckEnd Development and APIs{" "}
                 </b>
+                integrations.
               </i>
               <br />
               <br />
-              Apart from developent I also do <b className="purple"> DSA </b> questions and solved 
-              <b className="purple"> 350+ </b>
-               questions on leetcode.
-              
+              In addition to my development pursuits, I actively engage in honing my problem-solving skills through Data Structures and Algorithms
+                questions and solved many questions on Leetcode
+          
             </p>
           </Col>
           <Col md={4} className="myAvtar">
